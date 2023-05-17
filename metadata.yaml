@@ -1,0 +1,33 @@
+_repo: The-miniature-menace_70403
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Long, Frank Belknap
+    birthdate: 1903
+    deathdate: 1994
+    gutenberg_agent_id: '25911'
+    url: http://www.gutenberg.org/2009/agents/25911
+    wikipedia: https://en.wikipedia.org/wiki/Frank_Belknap_Long
+description: ''
+gutenberg_issued: '2023-03-29'
+identifiers:
+  gutenberg: '70403'
+language: en
+pgterms:marc905: 20220528122918long
+pgterms:marc906: '1950'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: $aUnited States :$bColumbia Publications, Inc., $c1950.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Spouses -- Fiction'
+- !lcsh 'Psychic ability -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The miniature menace
+url: http://www.gutenberg.org/ebooks/70403
